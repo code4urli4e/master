@@ -9,6 +9,6 @@ namespace Feature1
     public class Class1
     {
 
-        //feature1 added to code
+        //note for added feature1 to code
     }
 }
